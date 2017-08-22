@@ -1,0 +1,14 @@
+UPDATE_GRIPPER_CONFIG,3,InBuffer,InBufferNest1,3,3
+InBuffer,InBufferNest2,3,3
+AuditBuffer,AuditBufferNest1,3,3
+AuditBuffer,AuditBufferNest2,3,3
+AuditBuffer,AuditBufferNest3,3,3
+AuditBuffer,AuditBufferNest4,3,3
+ProcessBin,ProcessBinNest1,0,3
+ProcessBin,ProcessBinNest2,0,3
+ProcessBin,ProcessBinNest3,0,3
+ProcessBin,ProcessBinNest4,0,3
+NGBin,NGBinNest1,0,3
+NGBin,NGBinNest2,0,3
+NGBin,NGBinNest3,0,3
+NGBin,NGBinNest4,0,3

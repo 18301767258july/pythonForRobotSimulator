@@ -1,0 +1,4 @@
+QUERY_ACCESS_DEVICES,RejectDrawer,20,1,GoldenDoor,21,1
+QUERY_STATUS,0,success
+QUERY_MOVABLE_DEVICES,no support movable device,0,success
+QUERY_RESET_DEVICES,no support reset device,0,success
